@@ -1,9 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("HEY PEOPLE//, pruebas en github. Una modificacion mas");
-Console.WriteLine("HEY PEOPLE//, pruebas en github. Una modificacion mas");
-Console.WriteLine("HEY PEOPLE//, pruebas en github. Una modificacion mas");
-Console.WriteLine("HEY PEOPLE//, pruebas en github. Una modificacion mas");
-Console.WriteLine("HEY PEOPLE//, pruebas en github. Una modificacion mas");
-Console.WriteLine("HEY PEOPLE//, pruebas en github. Una modificacion mas");
-Console.WriteLine("HEY PEOPLE//, pruebas en github. Una modificacion mas");
-Console.WriteLine("HEY PEOPLE//, pruebas en github. Una modificacion mas");
+﻿void MiPrimerMetodo()
+{
+    //haz algo
+}
+void MiSegundoMetodo()
+{
+    //haz algo
+}
+
+void MiTercerMetodo()
+{
+    //haz algo
+}
